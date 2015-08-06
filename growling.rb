@@ -1,4 +1,4 @@
-0.upto(9) do
-  puts "Cry~~"
+0.upto(9) do`
+  puts "Hello world, Cry~~"
 end
 
